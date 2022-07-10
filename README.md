@@ -1,4 +1,3 @@
 # TUGAS-XI-22
-Tugas sekolah kelas 11 
-![](https://user-images.githubusercontent.com/73841574/178143431-8c1a9165-7ecf-4ff1-afda-727ca7efb86e.png =250x250)
-
+Tugas sekolah kelas 11
+![image](https://user-images.githubusercontent.com/73841574/178143650-e507ce70-1282-4896-8393-b8edb4647c13.png =250x250)
