@@ -1,0 +1,25 @@
+1.	Class : bangun datar 
+
+Objek : persegi panjang, persegi, lingkaran, segitiga
+
+Atribut : persegi panjang : panjang, lebar 
+                Persegi                : sisi
+                Lingkaran            : Jari - jari 
+                segitiga               : tinggi, sisi
+
+Method : persegi panjang : luas. Keliling
+                  Persegi                : luas, keliling
+                  Lingkaran            : luas 
+                  segitiga               : luas, keliling 
+
+2.	Class : animal / hewan 
+
+Objek : objek 1, objek 2
+
+Atribut : objek 1 : anjing, warna (kuning) 
+          onjek 2 : domba, warna (putih) 
+
+method : anjing : berlari, menulis
+         domba : berlari cepat
+         
+
