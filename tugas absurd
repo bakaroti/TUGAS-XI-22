@@ -1,18 +1,18 @@
-1.	Class : bangun datar 
+1.Class : bangun datar 
 
 Objek : persegi panjang, persegi, lingkaran, segitiga
 
 Atribut : persegi panjang : panjang, lebar 
                 Persegi                : sisi
-                Lingkaran            : Jari - jari 
+                Lingkaran              : Jari - jari 
                 segitiga               : tinggi, sisi
 
 Method : persegi panjang : luas. Keliling
-                  Persegi                : luas, keliling
-                  Lingkaran            : luas 
-                  segitiga               : luas, keliling 
+                Persegi                : luas, keliling
+                Lingkaran              : luas 
+                segitiga               : luas, keliling 
 
-2.	Class : animal / hewan 
+2.Class : animal / hewan 
 
 Objek : objek 1, objek 2
 
@@ -23,7 +23,7 @@ method : anjing : berlari, menulis
          domba : berlari cepat
          
 
-3.  Karaktiristik PBO
+3.Karaktiristik PBO
 
 Pemrograman Berorientasi Objek (PBO) disusun dan dipahami oleh ilmuwan yang memandang dunia sebagai populasi objek yang berinteraksi dengan yang lain. Prosedur yang digunakan dalam objek dipandang sebagai kepentingan kedua karena tergantung pada objek itu sendiri. Tentunya hal tersebut berbeda dengan pemrograman terstruktur.
 
