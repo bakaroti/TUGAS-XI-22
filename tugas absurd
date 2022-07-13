@@ -23,3 +23,41 @@ method : anjing : berlari, menulis
          domba : berlari cepat
          
 
+3.  Karaktiristik PBO
+
+Pemrograman Berorientasi Objek (PBO) disusun dan dipahami oleh ilmuwan yang memandang dunia sebagai populasi objek yang berinteraksi dengan yang lain. Prosedur yang digunakan dalam objek dipandang sebagai kepentingan kedua karena tergantung pada objek itu sendiri. Tentunya hal tersebut berbeda dengan pemrograman terstruktur.
+
+Pemrograman Berorientasi Objek (PBO) adalah metode pemrograman yang meniru bagaimana cara kita memperlakukan suatu benda.
+Pemrograman Berorientasi Objek memiliki tiga karakteristik, yaitu :
+1. Abstraction
+adalah Cara kita melihat suatu sistem dalam bentuk yang lebih sederhana, yaitu sebagai suatu kumpulan subsistem  (object) yang saling berinteraksi.
+
+Mobil adalah kumpulan sistem pengapian, sistem kemudi, sistem pengereman 
+Alat meng-abstraksikan sesuatu adalah class
+
+Object bersifat modularity. Object dapat ditulis dan dimaintain terpisah (independen) dari object lain
+
+2. Encapsulation
+Mekanisme menyembunyikan suatu proses dan data dalam sistem untuk menghindari interferensi, dan menyederhanakan penggunaan proses itu sendiri
+-	Tongkat transmisi (gigi) pada mobil
+-	Tombol on/off/pengaturan suhu pada AC
+
+Class access level (public, protected, privat) adalah implementasi dari konsep encapsulation.
+Enkapsulasi data dapat dilakukan dengan cara:
+1.mendeklarasikan instance variable sebagai private
+2.mendeklarasikan method yang sifatnya public untuk mengakses variable tersebut
+
+Enkapsulasi data juga dapat dilakukan dengan cara:
+1.mendeklarasikan instance variable sebagai private
+2.mendeklarasikan method yang sifatnya public untuk mengakses variable tersebut
+
+3. Inheritance
+Suatu class dapat mewariskan atribut  dan method kepada class lain (subclass), serta membentuk class hierarchy. Penting untuk Reusability.
+Java Keyword:
+extends
+
+4. Polymorphism
+Kemampuan untuk memperlakukan object yang memiliki perilaku (bentuk) yang berbeda
+Konsep Polymorphism
+1. Overloading: Kemampuan untuk menggunakan nama yang sama untuk beberapa method yang berbeda parameter (tipe dan atau jumlah)
+2. Overriding: Kemampuan subclass untuk menimpa method dari superclass yaitu dengan cara menggunakan nama dan parameter yang sama pada method
