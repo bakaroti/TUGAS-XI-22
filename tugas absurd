@@ -47,10 +47,6 @@ Enkapsulasi data dapat dilakukan dengan cara:
 1.mendeklarasikan instance variable sebagai private
 2.mendeklarasikan method yang sifatnya public untuk mengakses variable tersebut
 
-Enkapsulasi data juga dapat dilakukan dengan cara:
-1.mendeklarasikan instance variable sebagai private
-2.mendeklarasikan method yang sifatnya public untuk mengakses variable tersebut
-
 3. Inheritance
 Suatu class dapat mewariskan atribut  dan method kepada class lain (subclass), serta membentuk class hierarchy. Penting untuk Reusability.
 Java Keyword:
