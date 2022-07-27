@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Oswald&display=swap');*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+body
+{
+    background: rgb(43, 43, 43) ;
+    min-height: 200vh;
+}
+
+
+header
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: 0.4s;
+    z-index: 100000;
+
+}
+
+.judul
+{
+    color:#fff;
+    width: 65%;
+    padding: 200px;
+    margin-top: 70px;
+    transition: 0.5s;
+}
+
+header.sticky
+{
+    padding: 5px 100px;
+    background: rgb(8, 8, 8);
+}
+
+header .logo
+{
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+header ul
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header ul li
+{
+    list-style: none;
+    margin-left: 20px;
+}
+header ul li a
+{
+    text-decoration: none;
+    padding: 6px 15px;
+    color: #fff;
+    border-radius: 20px;
+}
+header ul li a:hover ,
+header ul li a.active
+{
+    background: #fff;
+    color: rgb(68, 0, 0);
+    
+}
+
+header.sticky .logo,
+header.sticky ul li a
+{
+    color: rgb(255, 255, 255);
+}
+header.sticky ul li a:hover,
+header.sticky ul li a.active
+{
+    background:rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+::-webkit-scrollbar
+{
+    display: none;
+}
+
+.container
+{
+    display: flex; 
+    justify-content: center;
+}
+.product
+{
+    padding: 80px;
+    margin-top: 200px;
+    
+    
+}
+
